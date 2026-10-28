@@ -10,7 +10,7 @@ Counts cover 23 distinct logged findings: 19 initial-review entries (D01–D19) 
 |---|---:|---:|---:|---:|
 | Ambiguity | 1 | 3 | 0 | 4 |
 | Vagueness | 1 | 3 | 0 | 4 |
-| Incompleteness | 1 | 5 | 0 | 6 |
+| Incompleteness | 2 | 4 | 0 | 6 |
 | Contradiction | 2 | 0 | 0 | 2 |
 | Non-verifiability | 2 | 1 | 0 | 3 |
 | Redundancy / overlap | 0 | 1 | 0 | 1 |
