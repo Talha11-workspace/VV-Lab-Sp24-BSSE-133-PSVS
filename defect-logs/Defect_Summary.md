@@ -16,14 +16,14 @@ Counts cover 23 distinct logged findings: 19 initial-review entries (D01–D19) 
 | Redundancy / overlap | 0 | 1 | 0 | 1 |
 | Infeasibility / potential infeasibility | 1 | 0 | 0 | 1 |
 | Untraceability | 1 | 1 | 0 | 2 |
-| **Total** | **9** | **14** | **0** | **23** |
+| **Total** | **10** | **13** | **0** | **23** |
 
 ## Counts by severity
 
 | Severity | Count | Share |
 |---|---:|---:|
-| High | 9 | 39.1% |
-| Medium | 14 | 60.9% |
+| High | 10 | 43.5% |
+| Medium | 13 | 56.5% |
 | Low | 0 | 0.0% |
 | **Total** | **23** | **100%** |
 
